@@ -32,7 +32,7 @@ if b<0:
 else:
     d=len(finds)+b
     c=c[d:]
-finds="These opcodes are listed as reserved opcodes that will produce"
+finds="Added in specific processors"
 b=c.find(finds)
 if b<0:
     print("error:")
