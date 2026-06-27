@@ -1,8 +1,8 @@
 import os
 import copy
 print("\033c\033[47;31m/give me the class file to view ? ")
-#a=input().strip()
-a="Hello.class"
+a=input().strip()
+#a="Hello.class"
 f1=open(a,"rb")
 b=f1.read()
 f1.close()
