@@ -1,1 +1,2 @@
-java dump a dump to .class files
+java dump a dump to .jbin files
+
